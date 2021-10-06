@@ -6,4 +6,4 @@ Big text
   
 Big-ish text
 
-<img src="quiz1jpg.jpeg" />
+<img src="IMG_1122.jpg" />
