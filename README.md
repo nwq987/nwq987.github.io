@@ -11,4 +11,4 @@ Big-ish text
  Regular text
 <img src="IMG_1122.jpeg" />
 <p>
-\[ \sum_{i=1}^\infty\frac{1}{n}=\infty \]
+\[ \sum_{i=1}^\infty\frac{1}{n^2}=\frac\{pi^2}{6} \]
